@@ -1,4 +1,4 @@
-
+[![Build Status](https://stevekvstssandbox.visualstudio.com/ContosoAir-GithubLab/_apis/build/status/stevek180.ContosoAir?branchName=master)](https://stevekvstssandbox.visualstudio.com/ContosoAir-GithubLab/_build/latest?definitionId=15&branchName=master)
 
 
 # Microsoft.Github CI Demo
