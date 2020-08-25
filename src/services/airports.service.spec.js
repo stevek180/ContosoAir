@@ -2,7 +2,7 @@ const AirportsService = require('./airports.service');
 
 const dummyAirportsJSON = [{
     "code": "BCN",
-    "city": "Barcelona",
+    "city": "Barceloner",
     "country": "Spain"
   },
   {
